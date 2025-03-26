@@ -1,5 +1,5 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue';
+import HelloWorld from './components/horario/HelloWorld.vue';
 import padre from './components/props/padre.vue';
 </script>
 
